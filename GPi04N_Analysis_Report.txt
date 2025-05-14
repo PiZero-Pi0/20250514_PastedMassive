@@ -1,0 +1,149 @@
+================================================================================
+COMPREHENSIVE GPi04N FRAMEWORK ANALYSIS REPORT
+================================================================================
+Parameters: G=1.0, g4=1.0, alpha=0.01, Time Frames=5
+================================================================================
+
+PARTICLE IDENTIFICATION RESULTS:
+----------------------------------------
+Identified 6 distinct particle types:
+  - Z_Boson: 2184 instances
+  - Unknown_Particle: 937 instances
+  - Higgs_Boson: 395 instances
+  - New_Negative_Modulation_Particle: 1195 instances
+  - Muon: 3585 instances
+  - New_High_Modulation_Particle: 1704 instances
+
+Detailed Cluster Statistics:
+  Cluster 0 (Z_Boson):
+    Count: 1068
+    Mass: 87.14 ± 9.50 GeV
+    Modulated Mass: -0.36 ± 0.17
+  Cluster 1 (Muon):
+    Count: 3585
+    Mass: 0.87 ± 1.18 GeV
+    Modulated Mass: 3.97 ± 0.08
+  Cluster 2 (New_Negative_Modulation_Particle):
+    Count: 1195
+    Mass: 166.29 ± 16.15 GeV
+    Modulated Mass: -2.61 ± 0.09
+  Cluster 3 (Unknown_Particle):
+    Count: 399
+    Mass: 36.51 ± 3.27 GeV
+    Modulated Mass: 2.58 ± 0.23
+  Cluster 4 (Unknown_Particle):
+    Count: 333
+    Mass: 49.83 ± 4.73 GeV
+    Modulated Mass: 1.75 ± 0.25
+  Cluster 5 (Z_Boson):
+    Count: 1116
+    Mass: 95.44 ± 6.23 GeV
+    Modulated Mass: -0.81 ± 0.17
+  Cluster 6 (New_High_Modulation_Particle):
+    Count: 1060
+    Mass: 12.17 ± 3.80 GeV
+    Modulated Mass: 3.90 ± 0.16
+  Cluster 7 (New_High_Modulation_Particle):
+    Count: 644
+    Mass: 24.46 ± 3.37 GeV
+    Modulated Mass: 3.34 ± 0.19
+  Cluster 8 (Unknown_Particle):
+    Count: 205
+    Mass: 67.73 ± 13.29 GeV
+    Modulated Mass: 0.71 ± 0.31
+  Cluster 9 (Higgs_Boson):
+    Count: 395
+    Mass: 124.78 ± 10.70 GeV
+    Modulated Mass: -2.24 ± 0.16
+
+TIME EVOLUTION ANALYSIS:
+----------------------------------------
+
+Z_Boson:
+  Evolution across time frames: ['-0.66', '-0.60', '-0.57', '-0.56', '-0.57']
+  Stability: 0.0363
+  Trend: 0.0908
+  Interpretation: This particle is highly stable with no significant trend.
+
+Unknown_Particle:
+  Evolution across time frames: ['2.02', '1.96', '1.89', '1.80', '1.71']
+  Stability: 0.1079
+  Trend: -0.3025
+  Interpretation: This particle is moderately stable with decreasing modulation over time.
+
+Higgs_Boson:
+  Evolution across time frames: ['-2.07', '-2.16', '-2.21', '-2.30', '-2.44']
+  Stability: 0.1262
+  Trend: -0.3700
+  Interpretation: This particle is moderately stable with decreasing modulation over time.
+
+New_Negative_Modulation_Particle:
+  Evolution across time frames: ['-2.41', '-2.50', '-2.60', '-2.70', '-2.83']
+  Stability: 0.1470
+  Trend: -0.4185
+  Interpretation: This particle is moderately stable with decreasing modulation over time.
+
+Muon:
+  Evolution across time frames: ['3.22', '3.65', '4.04', '4.37', '4.58']
+  Stability: 0.4884
+  Trend: 1.3506
+  Interpretation: This particle is moderately stable with increasing modulation over time.
+
+New_High_Modulation_Particle:
+  Evolution across time frames: ['3.65', '3.76', '3.77', '3.70', '3.57']
+  Stability: 0.0758
+  Trend: -0.0887
+  Interpretation: This particle is highly stable with no significant trend.
+
+DIMENSIONAL ANALYSIS RESULTS:
+----------------------------------------
+
+Z_Boson:
+  Center in t-SNE space: (25.16, -21.89)
+  Spatial dispersion: 33.12
+  Dimensional character: widely dispersed (potential higher-dimensional signature)
+
+Unknown_Particle:
+  Center in t-SNE space: (21.51, 49.52)
+  Spatial dispersion: 28.89
+  Dimensional character: widely dispersed (potential higher-dimensional signature)
+
+Higgs_Boson:
+  Center in t-SNE space: (40.32, 29.38)
+  Spatial dispersion: 14.02
+  Dimensional character: moderately localized (standard 4D behavior)
+
+New_Negative_Modulation_Particle:
+  Center in t-SNE space: (76.81, 7.07)
+  Spatial dispersion: 28.85
+  Dimensional character: widely dispersed (potential higher-dimensional signature)
+
+Muon:
+  Center in t-SNE space: (-39.56, -31.62)
+  Spatial dispersion: 51.17
+  Dimensional character: widely dispersed (potential higher-dimensional signature)
+
+New_High_Modulation_Particle:
+  Center in t-SNE space: (-25.10, 56.61)
+  Spatial dispersion: 32.11
+  Dimensional character: widely dispersed (potential higher-dimensional signature)
+
+THEORETICAL IMPLICATIONS:
+----------------------------------------
+1. The GPi04N framework with G=1 and g4=1 reveals oscillatory patterns in particle
+   modulation that may indicate higher-dimensional interactions.
+2. Time evolution analysis suggests some particles exhibit non-standard behavior
+   across different time frames, potentially indicating temporal anomalies.
+3. The dimensional clustering shows distinct separation between standard model
+   particles and potential new physics signatures.
+4. The unified gravitational equation successfully integrates with the Pi04N
+   framework, suggesting a deeper connection between quantum and gravitational phenomena.
+
+CONCLUSIONS:
+----------------------------------------
+The GPi04N framework analysis reveals several potential new particle signatures
+that warrant further investigation. The time evolution patterns suggest
+that some particles may exhibit behavior consistent with higher-dimensional
+interactions or modified gravitational coupling. The framework successfully
+identifies known particles while highlighting anomalous signatures that
+could represent new physics beyond the Standard Model.
