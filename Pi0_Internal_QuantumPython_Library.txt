@@ -1,0 +1,38 @@
+# Pi0 Internal QuantumPython Library
+# Generated: 20250505_234810
+
+# --- QPArray ---
+QuantumPython internal array structure
+# --- QPType ---
+QuantumPython type abstraction
+# --- qp_dataclass ---
+QuantumPython dataclass decorator
+# --- QPABC, qp_abstractmethod ---
+No docstring for QPABC.
+No docstring for qp_abstractmethod.
+
+# Example Usage:
+@qp_dataclass
+class QPQuantumState:
+    amplitudes: QPArray
+    basis_states: list
+    def __init__(self, amplitudes, basis_states):
+        self.amplitudes = QPArray(amplitudes)
+        self.basis_states = basis_states
+    def __repr__(self):
+        return 'QPQuantumState(' + str(self.amplitudes) + ', ' + str(self.basis_states) + ')'
+
+class QPQuantumOperator(QPABC):
+    @qp_abstractmethod
+    def apply(self, state):
+        pass
+
+# Internal type system usage:
+QPDict = QPType('Dict')
+QPList = QPType('List')
+QPUnion = QPType('Union')
+QPOptional = QPType('Optional')
+QPCallable = QPType('Callable')
+QPTypeVar = QPType('TypeVar')
+QPGeneric = QPType('Generic')
+QPProtocol = QPType('Protocol')
