@@ -1,0 +1,1 @@
+{'version': '2025.5.4', 'modules': [], 'features': ['file_naming', 'timecode', 'time_tracking', 'agent_integration']}
