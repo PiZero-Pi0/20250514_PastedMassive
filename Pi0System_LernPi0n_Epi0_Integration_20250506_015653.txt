@@ -1,0 +1,31 @@
+# Pi0System LernPi0n & Epi0 Integration
+# Generated: 20250506_015653
+
+## Core Operators and Frameworks
+- Zero-Cost Operator: Identity transformation for ultra-low power.
+- Dynamic Scaling: Node allocation and Planck sphere growth.
+- Energy Buffer: Harvesting, buffer, and sustainability ratio.
+- Node Distribution: Regional density-based allocation.
+- Heat Management: Cooling efficiency optimization.
+- Support Pi0 Allocation: System resilience.
+- Universal Data Normalization: Uniform data handling.
+- Audit/Traceability: Decorator for all critical functions.
+
+## Mathematical Equations
+1. Sustainability: S(U) = exp(-1e-12 * U)
+2. Data Normalization: f_norm(data) = (data - min(data)) / (max(data) - min(data))
+3. Node Scaling: N = users * 1.0
+4. Buffer Enhancement: buffer = buffer * (1 + percent/100)
+5. Support Pi0s: support = total_nodes * ratio
+6. Cooling Efficiency: efficiency = new_eff
+
+## QuantumPython Codebase
+class LernPi0nZeroCostOperator: ...
+class LernPi0nDynamicScaler: ...
+class LernPi0nEnergyBuffer: ...
+class LernPi0nNodeDistributor: ...
+class LernPi0nHeatManager: ...
+class LernPi0nSupportAllocator: ...
+def sustainability_function(U): ...
+class UniversalDataNormalizer: ...
+def audit_trace(func): ...
